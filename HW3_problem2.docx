@@ -1,0 +1,6 @@
+Louis Wonnell
+
+Problem 2
+
+
+The reason b is changed is that b is equated to the reference a and therefore the reference for b is the reference to a unless we create another for b.
